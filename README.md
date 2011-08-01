@@ -13,4 +13,4 @@ The sheet obviously requires that the support for macros is activated.
 
 * License
 
-This sheet is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/).
+This sheet is licensed under license [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/).
